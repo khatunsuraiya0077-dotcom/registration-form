@@ -1,0 +1,49 @@
+*{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;box-sizing:border-box;margin: 0;padding:0;}
+
+header{background-color: rgb(59, 15, 34);color: rgb(249, 250, 247);text-align: center; width:100%;padding: 30px;}
+nav a{color: rgb(119, 177, 238);text-decoration: none; padding: 5px;border:1px solid rgb(254, 230, 234);}
+section{background-color: rgb(247, 198, 181);margin:6px;padding:10px; text-align:center; border-radius:15px solid black; border-radius: 2px;}
+ul{ padding: 5px; border: 2px solid rgb(5, 5, 53) ;;  display:flex; gap: 30px; justify-content:center;}
+footer{background-color: rgb(8, 74, 70); text-align: center;color: rgb(238, 238, 219);padding: 20px}
+img{border: 2px solid rgb(30, 3, 55);border-radius: 50%;}
+ul{padding-left: 20px; background-color: rgba(199, 140, 171, 0.739); color: #020f1b; border-radius: 15px;}
+id{display: flex;flex-direction: column;align-items: flex-start;justify-content: center;}
+.projects {
+    background-color: rgb(238, 126, 156);
+    padding: 20px;
+    margin: 20px;
+    border-radius:20px;
+    text-align: center;
+    width: 90%;box-shadow: 
+
+   
+}
+
+.projects h1 {
+    color: purple;
+    font-size: 30px;
+    letter-spacing: 20px; box-shadow: 0 8px 15px rgba(74,35,90,0.25);
+    transition: 0.3s
+}
+
+.project-box {
+    background-color: white;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+    border: 2px solid purple;
+    width: 90%;
+    box-shadow: 0 8px 15px rgba(74,35,90,0.25);
+    transition: 0.3s;}
+
+.project-box h2 {
+    color: purple;
+}
+
+.project-box p {
+    color: rgba(25, 57, 146, 0.91);
+}
+
+.project-box:hover {
+    background-color: rgb(142, 219, 238);
+}

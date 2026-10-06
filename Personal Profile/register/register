@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title> Student Registration From</title>
+</head>
+<body bgcolor= "misty rose">
+    <form> 
+        <table align=" centre" width = " 700"cellpadding ="10">
+            <tr>
+                <td colspan = " 2 " align = "centre "><h1>  Student Registration Form></h1></td>
+                </tr>
+                <tr> <td> Student Name :</td> </tr>
+                </table>
+                    
